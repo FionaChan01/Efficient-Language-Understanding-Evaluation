@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="login-service" />
+        <module name="submit-api" />
+        <module name="login-api" />
+        <module name="data-mapper" />
+        <module name="data-api" />
+        <module name="data-service" />
+        <module name="task-api" />
+        <module name="submit-mapper" />
+        <module name="my-pojo" />
+        <module name="task-service" />
+        <module name="login-mapper" />
+        <module name="task-mapper" />
+        <module name="leaderboard-web" />
+        <module name="submit-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache-api" target="8" />
+      <module name="cache-service" target="8" />
+      <module name="cart-api" target="8" />
+      <module name="cart-mapper" target="8" />
+      <module name="cart-service" target="8" />
+      <module name="detail-api2" target="8" />
+      <module name="detail-mapper" target="8" />
+      <module name="detail-service" target="8" />
+      <module name="order-api" target="8" />
+      <module name="order-mapper" target="8" />
+      <module name="order-service" target="8" />
+      <module name="pay-api" target="8" />
+      <module name="pay-mapper" target="8" />
+      <module name="pay-service1" target="8" />
+      <module name="picture-api" target="8" />
+      <module name="picture-service" target="8" />
+      <module name="search-api" target="8" />
+      <module name="search-mapper" target="8" />
+      <module name="search-service" target="8" />
+      <module name="shop-api" target="8" />
+      <module name="shop-mapper" target="8" />
+      <module name="shop-service" target="8" />
+      <module name="user-api" target="8" />
+      <module name="user-mapper" target="8" />
+      <module name="user-service" target="8" />
+      <module name="wishlist-api" target="8" />
+      <module name="wishlist-mapper" target="8" />
+      <module name="wishlist-service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache-api" options="-parameters" />
+      <module name="cache-service" options="-parameters" />
+      <module name="cart-api" options="-parameters" />
+      <module name="cart-mapper" options="-parameters" />
+      <module name="cart-service" options="-parameters" />
+      <module name="data-api" options="-parameters" />
+      <module name="data-mapper" options="-parameters" />
+      <module name="data-service" options="-parameters" />
+      <module name="detail-api2" options="-parameters" />
+      <module name="detail-mapper" options="-parameters" />
+      <module name="detail-service" options="-parameters" />
+      <module name="fnlp-leaderboard" options="-parameters" />
+      <module name="leaderboard-web" options="-parameters" />
+      <module name="login-api" options="-parameters" />
+      <module name="login-mapper" options="-parameters" />
+      <module name="login-service" options="-parameters" />
+      <module name="my-pojo" options="-parameters" />
+      <module name="order-api" options="-parameters" />
+      <module name="order-mapper" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="pay-api" options="-parameters" />
+      <module name="pay-mapper" options="-parameters" />
+      <module name="pay-service1" options="-parameters" />
+      <module name="picture-api" options="-parameters" />
+      <module name="picture-service" options="-parameters" />
+      <module name="search-api" options="-parameters" />
+      <module name="search-mapper" options="-parameters" />
+      <module name="search-service" options="-parameters" />
+      <module name="shop-api" options="-parameters" />
+      <module name="shop-mapper" options="-parameters" />
+      <module name="shop-service" options="-parameters" />
+      <module name="submit-api" options="-parameters" />
+      <module name="submit-mapper" options="-parameters" />
+      <module name="submit-service" options="-parameters" />
+      <module name="task-api" options="-parameters" />
+      <module name="task-mapper" options="-parameters" />
+      <module name="task-service" options="-parameters" />
+      <module name="user-api" options="-parameters" />
+      <module name="user-mapper" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="wishlist-api" options="-parameters" />
+      <module name="wishlist-mapper" options="-parameters" />
+      <module name="wishlist-service" options="-parameters" />
+    </option>
+  </component>
+</project>

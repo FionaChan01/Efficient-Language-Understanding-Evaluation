@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leaderboard-web/pom.xml" />
+        <option value="$PROJECT_DIR$/login-service/pom.xml" />
+        <option value="$PROJECT_DIR$/login-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/login-api/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cache-api/pom.xml" />
+        <option value="$PROJECT_DIR$/cache-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/detail-api2/pom.xml" />
+        <option value="$PROJECT_DIR$/detail-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/detail-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/order-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-service1/pom.xml" />
+        <option value="$PROJECT_DIR$/picture-api/pom.xml" />
+        <option value="$PROJECT_DIR$/picture-service/pom.xml" />
+        <option value="$PROJECT_DIR$/search-api/pom.xml" />
+        <option value="$PROJECT_DIR$/search-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/user-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wishlist-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wishlist-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/wishlist-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK" />
+</project>

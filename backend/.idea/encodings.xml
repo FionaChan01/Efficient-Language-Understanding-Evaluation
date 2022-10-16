@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leaderboard-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leaderboard-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/submit-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/submit-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/submit-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
