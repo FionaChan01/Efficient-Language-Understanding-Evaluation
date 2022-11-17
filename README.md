@@ -6,7 +6,7 @@ This is the Source Code repo for the [ELUE website](http://eluebenchmark.fastnlp
 
 The overall framework of ELUE is shown in the figure below.
 
-<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/overall.png?raw=true" style="width:48%;margin:0 auto" /></center>
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/overall.png?raw=true" style="width:80%;margin:0 auto" /></center>
 
 
 
@@ -20,11 +20,9 @@ The overall framework of ELUE is shown in the figure below.
 
 ELUE's backend uses a distributed framework that includes four microservices: login, data, tasks, and submit. Also apache Dubbo and Zookeeper are used as the registration center and management framework respectively.
 
-
-
-
-
 #### 1⃣️ **Login Service**
+
+
 
 #### 2⃣️ Data Service
 
