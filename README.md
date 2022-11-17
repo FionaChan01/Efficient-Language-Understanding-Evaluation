@@ -4,15 +4,19 @@
 
 This is the Source Code repo for the [ELUE website](http://eluebenchmark.fastnlp.top/#/landing), ELUE (Efficient Language Understanding Evaluation) is a standard benchmark for efficient NLP models.
 
-## Ⅰ Frontend
+# Ⅰ Frontend
 
 
 
-## Ⅱ Backend
+# Ⅱ Backend
+
+ELUE's backend uses a distributed framework that includes four microservices: login, data, tasks, and submit. And zookeeper and dubbo are used as the registration center and management framework respectively.
+
+The overall framework is shown in the figure below.
 
 
 
-#### 1⃣️ Login Service
+#### 1⃣️ **Login Service**
 
 #### 2⃣️ Data Service
 
