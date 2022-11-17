@@ -6,11 +6,7 @@ This is the Source Code repo for the [ELUE website](http://eluebenchmark.fastnlp
 
 The overall framework of ELUE is shown in the figure below.
 
-<img src="https://raw.githubusercontent.com/FionaChan01/Efficient-Language-Understanding-Evaluation/main/images/overall.png" style="width:48%;margin:0auto" />
-
-
-
-
+<img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/overall.png?raw=true" style="width:48%;margin:0auto" />
 
 
 
