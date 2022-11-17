@@ -1,12 +1,12 @@
 # Efficient Language Understanding Evaluation
 
-<img src="https://raw.githubusercontent.com/FionaChan01/Efficient-Language-Understanding-Evaluation/main/logo.png" style="width:48%;margin:0 auto" />
+<center><img src="https://raw.githubusercontent.com/FionaChan01/Efficient-Language-Understanding-Evaluation/main/logo.png" style="width:48%;margin:0 auto" /></center>
 
 This is the Source Code repo for the [ELUE website](http://eluebenchmark.fastnlp.top/#/landing), ELUE (Efficient Language Understanding Evaluation) is a standard benchmark for efficient NLP models.
 
 The overall framework of ELUE is shown in the figure below.
 
-<img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/overall.png?raw=true" style="width:48%;margin:0 auto" />
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/overall.png?raw=true" style="width:48%;margin:0 auto" /></center>
 
 
 
