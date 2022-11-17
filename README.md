@@ -16,15 +16,23 @@ The overall framework of ELUE is shown in the figure below.
 
 #### 1⃣️ **Home Page**
 
-
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/homepage.png?raw=true" style="width:80%;margin:0 auto" /></center>
 
 #### 2⃣️ About Page
 
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/aboutpage.png?raw=true" style="width:80%;margin:0 auto" /></center>
+
 #### 3⃣️ Leaderboard Page
+
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/leaderboardpage.png?raw=true" style="width:80%;margin:0 auto" /></center>
 
 #### 4⃣️ Profile Page
 
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/profilepage.png?raw=true" style="width:80%;margin:0 auto" /></center>
+
 #### 5⃣️ Task Page
+
+<center><img src="https://github.com/FionaChan01/Efficient-Language-Understanding-Evaluation/blob/main/images/taskpage.png?raw=true" style="width:80%;margin:0 auto" /></center>
 
 
 
